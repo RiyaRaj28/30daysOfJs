@@ -3,7 +3,7 @@ var numVar = 42;
 console.log(numVar); 
 
 // Task 2: Declare a variable using `let`, assign it a string, and log the value to the console.
-let strLet = "Hello, world!";
+let strLet = "Hello, world Riya here!";
 console.log(strLet); 
 
 // Task 3: Declare a variable using `const`, assign it a boolean value, and log the value to the console.
@@ -14,7 +14,7 @@ console.log(boolConst);
 let num = 100; 
 let str = "JavaScript"; 
 let bool = false; 
-let obj = {name: "John", age: 30}; 
+let obj = {name: "Riya", branch : IT}; 
 let arr = [1, 2, 3, 4, 5]; 
 
 console.log(typeof num); 
