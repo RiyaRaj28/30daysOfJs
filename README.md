@@ -4,6 +4,9 @@ This is a follow-along 30 days of Javascript Challenge.
 - [x] Day 3 - Control Structures
 - [x] Day 4 - Loops
 - [x] Day 5 - Functions
+- [x] Day 6 - JavaScript Arrays
+
+
 
 
 
