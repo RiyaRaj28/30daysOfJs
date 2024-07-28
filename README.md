@@ -6,6 +6,8 @@ This is a follow-along 30 days of Javascript Challenge.
 - [x] Day 5 - Functions
 - [x] Day 6 - JavaScript Arrays
 - [x] Day 7 - Objects
+- [x] Day 8 - ES6 + Features
+
 
 
 
