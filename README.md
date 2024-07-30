@@ -7,6 +7,10 @@ This is a follow-along 30 days of Javascript Challenge.
 - [x] Day 6 - JavaScript Arrays
 - [x] Day 7 - Objects
 - [x] Day 8 - ES6 + Features
+- [x] Day 9 - DOM Manipulation
+- [x] Day 10 - Event Handling
+
+
 
 
 
